@@ -27,6 +27,10 @@ Online version is available at [oshwhub.com/jiegec/wm8731mod](https://oshwhub.co
 
 Schematic, PCB, Gerber and BOM files are included in this repo.
 
+![Schematic](./2021-03-09/Schematic_WM7831PMOD_2021-03-09.pdf)
+
+![PCB](./2021-03-09/PCB_PCB_WM7831PMOD_2021-03-09.pdf)
+
 ## References
 
 - [A similar project](http://ebrombaugh.studionebula.com/synth/codec_pmod/index.html)
