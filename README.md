@@ -4,10 +4,10 @@ A small board to extend audio capabilities to FPGA via PMOD interface. Designed 
 
 It includes:
 
-1. WM8731 chip with I2C and I2S
-2. PAM8303 + XH2.54 2P for speaker output
+1. [WM8731](https://www.cirrus.com/products/wm8731/) chip with I2C and I2S
+2. [PAM8303](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/datasheet/hat/PAM8303_en.pdf) + XH2.54 2P for speaker output
 3. 4x TRS port for line in, mic in, line out and headphone out
-4. PMOD 1.2.0 connection to FPGA
+4. [PMOD](https://reference.digilentinc.com/_media/reference/pmod/pmod-interface-specification-1_2_0.pdf) connection to FPGA
 
 ## PMOD pin definition
 
