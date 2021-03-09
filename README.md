@@ -31,6 +31,15 @@ Schematic, PCB, Gerber and BOM files are included in this repo.
 
 ![PCB](PCB.png)
 
+## Cost
+
+Manufacture in JLC:
+
+1. 5 pcs PCB: 5.0 CNY + tax 0.4 CNY
+2. 5 pcs SMT: Components 126.18 CNY(WM8731 16.05 CNY/pcs, PAM8303 2.51 CNY/pcs) + Other fees 154.4 CNY(Extended library 60 CNY, Engineering 50 CNY, SMT pad 5.9 CNY, Hand weld pad 18.5 CNY, Hand engineering 20 CNY) + Tax 22.45 CNY
+
+Total: 61.686 CNY/pcs.
+
 ## References
 
 - [A similar project](http://ebrombaugh.studionebula.com/synth/codec_pmod/index.html)
