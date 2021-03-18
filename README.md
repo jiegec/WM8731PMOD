@@ -13,12 +13,12 @@ It includes:
 
 | Description  | Pin number | Pin number | Description |
 | ------------ | ---------- | ---------- | ----------- |
-| SPEAKER_MUTE | 1          | 2          | I2S_LRCLK   |
-| MCLK         | 3          | 4          | I2S_DACDAT  |
-| I2C_SCL      | 5          | 6          | I2S_ADCDAT  |
-| I2C_SDA      | 7          | 8          | I2S_BCLK    |
-| GND          | 9          | 10         | GND         |
-| VCC          | 11         | 12         | VCC         |
+| SPEAKER_MUTE | 7          | 1          | I2S_LRCLK   |
+| MCLK         | 8          | 2          | I2S_DACDAT  |
+| I2C_SCL      | 9          | 3          | I2S_ADCDAT  |
+| I2C_SDA      | 10         | 4          | I2S_BCLK    |
+| GND          | 11         | 5          | GND         |
+| VCC          | 12         | 6          | VCC         |
 
 
 ## Project
