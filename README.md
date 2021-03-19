@@ -45,6 +45,17 @@ Total: 61.686 CNY/pcs.
 - [A similar project](http://ebrombaugh.studionebula.com/synth/codec_pmod/index.html)
 - [DE2 board schematic](https://wiki.bu.ost.ch/infoportal/_media/fpga/cyclone_iv/de2_115_schematic.pdf)
 
+## Version history
+
+## 2021-03-09
+
+1. Add support for speaker: XH2.54P connector and PM8303 amplifiier
+2. Add output selector to choose one of: speaker and line out left
+
+# 2021-03-07
+
+1. Initial version with WM7831 and four audio jacks
+
 ## License
 
 Licensed under CERN-OHL-P.
