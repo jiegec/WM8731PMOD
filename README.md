@@ -31,6 +31,14 @@ Schematic, PCB, Gerber and BOM files are included in this repo.
 
 ![PCB](PCB.png)
 
+## Errata
+
+### PMOD interface flipped
+
+Version affected: 2021-03-07, 2021-03-09
+
+PMOD interface is flipped in direction, so you need to flip the board to match the correct pin mapping.
+
 ## Cost
 
 Manufacture in JLC:
