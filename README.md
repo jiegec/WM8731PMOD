@@ -33,7 +33,7 @@ Schematic, PCB, Gerber and BOM files are included in this repo.
 
 ## Errata
 
-### PMOD interface flipped
+### #1: PMOD interface flipped
 
 Version affected: 2021-03-07, 2021-03-09
 
@@ -54,6 +54,10 @@ Total: 61.686 CNY/pcs.
 - [DE2 board schematic](https://wiki.bu.ost.ch/infoportal/_media/fpga/cyclone_iv/de2_115_schematic.pdf)
 
 ## Version history
+
+## 2021-04-13
+
+1. Fixed errata #1: PMOD interface flipped
 
 ## 2021-03-09
 
