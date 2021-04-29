@@ -55,6 +55,10 @@ Total: 61.686 CNY/pcs.
 
 ## Version history
 
+## 2021-04-29
+
+1. Fixed typo: WM7831 -> WM8731
+
 ## 2021-04-13
 
 1. Fixed errata #1: PMOD interface flipped
@@ -66,7 +70,7 @@ Total: 61.686 CNY/pcs.
 
 # 2021-03-07
 
-1. Initial version with WM7831 and four audio jacks
+1. Initial version with WM8731 and four audio jacks
 
 ## License
 
