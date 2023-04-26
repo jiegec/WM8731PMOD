@@ -55,23 +55,24 @@ Total: 61.686 CNY/pcs.
 
 ## Version history
 
-## 2021-04-29
+### 2021-04-29
 
 1. Fixed typo: WM7831 -> WM8731
 
-## 2021-04-13
+### 2021-04-13
 
 1. Fixed errata #1: PMOD interface flipped
 
-## 2021-03-09
+### 2021-03-09
 
 1. Add support for speaker: XH2.54P connector and PM8303 amplifiier
 2. Add output selector to choose one of: speaker and line out left
 
-# 2021-03-07
+### 2021-03-07
 
 1. Initial version with WM8731 and four audio jacks
 
 ## License
 
 Licensed under CERN-OHL-P.
+
