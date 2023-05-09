@@ -31,6 +31,8 @@ Schematic, PCB, Gerber and BOM files are included in this repo.
 
 ![PCB](PCB.png)
 
+Example code: [jiegec/Arty-A7-WM8731PMOD](https://github.com/jiegec/Arty-A7-WM8731PMOD).
+
 ## Errata
 
 ### #1: PMOD interface flipped
