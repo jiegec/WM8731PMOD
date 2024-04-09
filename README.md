@@ -57,6 +57,10 @@ Total: 61.686 CNY/pcs.
 
 ## Version history
 
+### 2024-04-09
+
+1. Replace some BOM
+
 ### 2021-04-29
 
 1. Fixed typo: WM7831 -> WM8731
