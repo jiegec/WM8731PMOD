@@ -20,6 +20,12 @@ It includes:
 | GND          | 11         | 5          | GND         |
 | VCC          | 12         | 6          | VCC         |
 
+## TRS definition
+
+1. Line in: T(Left) R(Right) S(Ground)
+2. Microphone in: T(Left) R(Ground) S(Ground)
+3. Line out: T(Left) R(Right) S(Ground)
+4. Headphone out: T(Left) R(Right) S(Ground)
 
 ## Project
 
